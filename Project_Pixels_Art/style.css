@@ -1,0 +1,43 @@
+.color {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+}
+
+#black {
+  background-color: black;
+
+}
+
+h1 {
+  color: black;
+}
+
+.pixel {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+#board-size {
+  width: 60px;
+}
+
+#color-palette {
+  margin-bottom: 10px;
+}
+
+#buttons {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-right: 5px;
+}
+
+input {
+  margin-right: 5px;
+}
