@@ -7,6 +7,7 @@ Here the major language used is JavaScript
 The projects here are: 
 
 1- Color Guess - a simple game to guess the color shown in screen -- under construction
+
 2- Unit Test - this project is focused on tests and the use of Jest
 3- Meme Generator - a project that generates memes -- under construction
 4- Mistery Letter - wanna create a spooky letter? here is the place
