@@ -20,6 +20,10 @@ The projects here are:
 
 7- Shopping Cart - wanna buy something? in this project you can simulate it, browsing in products available in a Mercado Livre API
 
-8- Tod List - do you often forget what you should do? In this project you can create a to do list, and never lose an appointment ever again!
+8- Todo List - do you often forget what you should do? In this project you can create a to do list, and never lose an appointment ever again!
+
+9 TrybeWarts - a very cool project for learning how to use forms in JS
+
+10 - Zoo Functions - the most challenging project in this module. A very nice opportunity to learn more about logic and manipulation of objects and array in JS
 
 Major details are found in their respective folders. In the future I expect to reproduce them based on React. 
